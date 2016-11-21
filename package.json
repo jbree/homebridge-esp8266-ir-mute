@@ -9,13 +9,13 @@
   },
   "keywords": [
     "homebridge",
-    "infrared",
+    "homekit",
+    "esp8266",
     "ir",
-    "mute",
-    "homekit"
+    "infrared"
   ],
   "author": "Joshua Breeden",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/jbree/homebridge-esp8266-ir-mute/issues"
   },
