@@ -1,0 +1,23 @@
+{
+  "name": "homebridge-esp8266-ir-mute",
+  "version": "0.1.0",
+  "description": "Homebridge Plugin to control a custom ESP8266 IR mute sender",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbree/homebridge-esp8266-ir-mute.git"
+  },
+  "keywords": [
+    "homebridge",
+    "infrared",
+    "ir",
+    "mute",
+    "homekit"
+  ],
+  "author": "Joshua Breeden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbree/homebridge-esp8266-ir-mute/issues"
+  },
+  "homepage": "https://github.com/jbree/homebridge-esp8266-ir-mute#readme"
+}
