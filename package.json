@@ -8,7 +8,7 @@
     "url": "git+https://github.com/jbree/homebridge-esp8266-ir-mute.git"
   },
   "keywords": [
-    "homebridge",
+    "homebridge-plugin",
     "homekit",
     "esp8266",
     "ir",
@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/jbree/homebridge-esp8266-ir-mute/issues"
   },
-  "homepage": "https://github.com/jbree/homebridge-esp8266-ir-mute#readme"
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.5"
+  },
+  "homepage": "https://github.com/jbree/homebridge-esp8266-ir-mute#readme",
+  "dependencies": {
+    "ipaddr.js": "^1.2.0",
+    "request": "^2.79.0"
+  }
 }
